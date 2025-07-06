@@ -1,5 +1,4 @@
-# ibmx-python-bacics-for-data-science-course
-# IBM: Python Basics for Data Science (edX Audit Track)
+IBM: Python Basics for Data Science (edX Audit Track)
 
 👋 Welcome! I'm currently working through the *"Python Basics for Data Science"* course by IBM on edX (Audit Track).
 Although I haven't completed all the lessons yet, I'm using this GitHub repo to track my learning progress, store code notebooks, and reflect on what I'm learning.
