@@ -18,9 +18,9 @@ This course introduces the foundations of Python programming in the context of d
 
 | Module                     | Status     | Notes                      |
 |---------------------------|------------|----------------------------|
-| Hello Python              | ✅ Started | Initial syntax & print     |
-| Data Types & Structures   | ⏳ Upcoming| Lists, Tuples, Dictionaries|
-| Conditions & Loops        | ⏳         | If/Else, For/While Loops   |
+| Hello Python              | ✅ Finished | Initial syntax & print     |
+| Data Types & Structures   | ✅ Finished| Lists, Tuples, Dictionaries|
+| Conditions & Loops        | ⏳ Started| If/Else, For/While Loops   |
 | Functions & Objects       | ⏳         | Custom functions           |
 
 ---
